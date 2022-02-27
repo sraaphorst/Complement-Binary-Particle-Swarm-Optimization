@@ -1,1 +1,3 @@
-# complement_binary_particle_swarm_optimization
+# Complement Binary Particle Swarm Optimization
+
+* An early implementation of this metaheuristic. Should be migrated to use numpy.
